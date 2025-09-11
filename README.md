@@ -24,10 +24,10 @@ Selfhosted n8n v1.111.0
 ## Configure
 
 ```
-// @match        https://your-doamin.com/*
-// @match        http://your-doamin.com/*
-// @match        https://*.your-doamin.com/*
-// @match        http://*.your-doamin.com/*
+// @match        https://your-n8n-domain.com/*
+// @match        http://your-n8n-domain.com/*
+// @match        https://*.your-n8n-domain.com/*
+// @match        http://*.your-n8n-domain.com/*
 
 INTERVAL_SEC = 180; // 3 min
 ```
