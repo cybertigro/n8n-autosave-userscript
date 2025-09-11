@@ -4,12 +4,22 @@ Adds autosave functionality to n8n in Safari
 
 Selfhosted n8n v1.111.0
 
-![Demo Image](https://github.com/cybertigro/n8n-autosave-userscript/blob/d669de6624b984c941265296ab696de9cfd0e788/demo-img.png)
+![Demo Image](demo-img.png)
+
+## Safari Userscripts
 
 1. Install [Userscripts](https://apps.apple.com/us/app/userscripts/id1463298887) Safari extension
-2. Add [n8n-autoosave.js](https://github.com/cybertigro/n8n-autosave-userscript/blob/67179d896880944e11eba0a239d2564e8309047b/n8n-autosave.js) script
+2. Add [n8n-autosave-userscripts.js](n8n-autosave-userscripts.js) script
 3. Configure
 4. Restart & Enjoy
+
+## Chrome Tampermonkey
+
+1. Install [Tampermonkey](https://www.tampermonkey.net/) Chrome extension
+2. Add [n8n-autosave-tampermonkey.js](n8n-autosave-tampermonkey.js) script
+3. Configure
+4. Restart & Enjoy
+
 
 ## Configure
 
