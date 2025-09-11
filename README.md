@@ -1,7 +1,8 @@
 # n8n-autosave-userscript
 
-Adds autosave functionality selfhosted n8n in Safari
-n8n v1.111.0
+Adds autosave functionality to n8n in Safari
+
+Selfhosted n8n v1.111.0
 
 ![Demo Image](https://github.com/cybertigro/n8n-autosave-userscript/blob/d669de6624b984c941265296ab696de9cfd0e788/demo-img.png)
 
