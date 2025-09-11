@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         n8n autosave inline timer
-// @match        https://your-doamin.com/*
-// @match        http://your-doamin.com/*
-// @match        https://*.your-doamin.com/*
-// @match        http://*.your-doamin.com/*
+// @match        https://your-n8n-domain.com/*
+// @match        http://your-n8n-domain.com/*
+// @match        https://*.your-n8n-domain.com/*
+// @match        http://*.your-n8n-domain.com/*
 // @run-at       document-idle
 // @noframes
 
