@@ -1,10 +1,10 @@
 // ==UserScript==
-// @namespace    https://your-website.com/
+// @namespace    https://your-n8n-domain.com/
 // @version      1.2.0
-// @match        https://your-website.com/*
-// @match        http://your-website.com/*
-// @match        https://*.your-website.com/*
-// @match        http://*.cyour-website.com/*
+// @match        https://your-n8n-domain.com/*
+// @match        http://your-n8n-domain.com/*
+// @match        https://*.your-n8n-domain.com/*
+// @match        http://*.your-n8n-domain.com/*
 // @run-at       document-idle
 // @noframes
 // @grant        none
