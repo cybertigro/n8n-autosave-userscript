@@ -31,3 +31,7 @@ Selfhosted n8n v1.111.0
 
 INTERVAL_SEC = 180; // 3 min
 ```
+## Licence
+[LICENSE](LICENSE)
+MIT License
+Copyright (c) 2025 Ihar
