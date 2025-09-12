@@ -1,6 +1,6 @@
 # n8n-autosave-userscript
 
-Adds autosave functionality to n8n in Safari
+Adds autosave functionality to n8n in Safari & Chrome
 
 Selfhosted n8n v1.111.0
 
