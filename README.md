@@ -215,5 +215,5 @@ If you encounter issues:
 ---
 
 > ⚠️ **Important**: This script is designed to improve workflow convenience but doesn't replace manual saving of important changes. Always verify that critical changes are manually saved.
-MIT License
-Copyright (c) 2025 Ihar
+
+vibecode? yes!
