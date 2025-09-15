@@ -53,7 +53,7 @@ During pause, displays: `Save (02:45 ⏸)`
 
 ### Step 2: Install the script
 
-1. Copy the script code
+1. Copy the [script code](n8n-autosave-userscripts.js)
 2. Open your userscript manager dashboard
 3. Create a new script and paste the code
 4. Save and activate the script
